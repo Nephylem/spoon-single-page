@@ -1230,6 +1230,7 @@ button[class^="testimonials-swiper"] {
   z-index: 10;
   object-fit: cover;
   object-position: 0 100%;
+  max-height: 420px;
 }
 .cta2-content__text {
   position: relative;
