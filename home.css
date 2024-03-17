@@ -336,7 +336,7 @@ img[alt="about-content-1"] {
   }
 }
 
-@media only screen and (max-width: 440px) {
+@media only screen and (max-width: 590px) {
   .about-content {
     height: 100vh;
     padding: 50px;
